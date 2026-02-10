@@ -10,3 +10,4 @@ The longest song is by Kenfrick Lamar and is over 12 minutes long!
 
 Unsurprisingly "Pop" is the the most popular genre.
 
+I concatenated some fields to help with the analysis e.g. Track Name and Artist Name to make "Song & Artist", I did this as there are many songs with the same name (including cover versions). Doing this would allow different songs with the same name to be treated differently in the rankings.
