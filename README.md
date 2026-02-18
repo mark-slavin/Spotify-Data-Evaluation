@@ -12,3 +12,5 @@ Unsurprisingly, "Pop" is the most popular genre.
 I concatenated some fields to help with the analysis e.g. Track Name and Artist Name to make "Song & Artist", I did this as there are many songs with the same name (including cover versions).
 
 Doing this would allow different songs with the same name to be treated differently in the rankings.
+
+https://sites.google.com/view/mark-slavin/projects/spotify-data-tableau-dashboard
